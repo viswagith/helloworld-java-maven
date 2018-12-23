@@ -42,7 +42,7 @@
     <repository>
         <id>sym</id>
         <name>release softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <url>http://52.66.212.86:8081/repository/viswa/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
